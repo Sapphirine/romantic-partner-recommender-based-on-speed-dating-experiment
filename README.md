@@ -4,8 +4,8 @@ This is EECS 6893 Big Data Analytics Project:
 Romantic partner recommendation based on Speed Dating Experiment.
 
 #### Find the project
-[Public Git Repository](https://github.com/Sapphirine/romantic-partner-recommender-based-on-speed-dating-experiment)
-[YouTube Video](https://youtu.be/HtjJiySTdIE)
+- [Public Git Repository](https://github.com/Sapphirine/romantic-partner-recommender-based-on-speed-dating-experiment)
+- [YouTube Video](https://youtu.be/HtjJiySTdIE)
 
 
 ### Abstract
