@@ -8,8 +8,12 @@ Romantic partner recommendation based on Speed Dating Experiment.
 - [YouTube Video](https://youtu.be/HtjJiySTdIE)
 
 
+### Dataset
+- [Speed Dating Experiment](https://www.kaggle.com/annavictoria/speed-dating-experiment)
+- The dataset is publicly available on Kaggle
+
 ### Abstract
-Most dating recommender are based on online dating sites that makes use of virtual user profiles portrayed by the users themselves. While speed dating collects real-life face-to-face dating interactions among people, the data is rarely applied in speed dating in any form. This project explores the research gap and presents a novel approach of combining speed dating study with dating recommender system to improve dating recommendation. The user profile portrayed by themselves may not accurately reflect their likeability as a potential romantic partner. The project highlights the introduction of an approach of extracting objective evaluation based on the objective ratings given by the dating partners in the speed dating events to construct an objective profile library. Experiment results confirm the effectiveness of the proposed approach in terms of match prediction accuracy.
+Most dating recommenders are based on online dating sites that makes use of virtual user profiles portrayed by the users themselves. While speed dating collects real-life face-to-face dating interactions among people, the data is rarely applied in speed dating in any form. This project explores the research gap and presents a novel approach of combining speed dating study with dating recommender system to improve dating recommendation. The user profile portrayed by themselves may not accurately reflect their likeability as a potential romantic partner. The project highlights the introduction of an approach of extracting objective evaluation based on the objective ratings given by the dating partners in the speed dating events to construct an objective profile library. Experiment results confirm the effectiveness of the proposed approach in terms of match prediction accuracy.
 
 ### Preprocessing
 - type: resampling
