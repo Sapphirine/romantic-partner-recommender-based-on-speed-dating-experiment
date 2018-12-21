@@ -3,6 +3,11 @@
 This is EECS 6893 Big Data Analytics Project: 
 Romantic partner recommendation based on Speed Dating Experiment.
 
+#### Find the project
+[Public Git Repository](https://github.com/Sapphirine/romantic-partner-recommender-based-on-speed-dating-experiment)
+[YouTube Video](https://youtu.be/HtjJiySTdIE)
+
+
 ### Abstract
 Most dating recommender are based on online dating sites that makes use of virtual user profiles portrayed by the users themselves. While speed dating collects real-life face-to-face dating interactions among people, the data is rarely applied in speed dating in any form. This project explores the research gap and presents a novel approach of combining speed dating study with dating recommender system to improve dating recommendation. The user profile portrayed by themselves may not accurately reflect their likeability as a potential romantic partner. The project highlights the introduction of an approach of extracting objective evaluation based on the objective ratings given by the dating partners in the speed dating events to construct an objective profile library. Experiment results confirm the effectiveness of the proposed approach in terms of match prediction accuracy.
 
